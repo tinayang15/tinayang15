@@ -11,7 +11,7 @@ Initially pursuing a career as a physician assistant, I found my true calling in
 
 - 👯 I’m currently collaborating on [Swish-Sesh](https://github.com/mannyaalonso/swish-sesh)
 
-- 👨‍💻 All of my projects are available at [https://yangtina.netlify.app/#](https://yangtina.netlify.app/#)
+- 👨‍💻 All of my projects are available at [https://tinayang.vercel.app/](https://tinayang.vercel.app/)
 
 - 💬 Ask me about **React | MongoDB | Express**
 
@@ -22,8 +22,6 @@ Initially pursuing a career as a physician assistant, I found my true calling in
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yang-tina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yang-tina/" height="30" width="40" /></a>
-
-  <a href="https://github.com/tinayang15" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
