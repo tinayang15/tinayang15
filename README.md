@@ -7,7 +7,7 @@ Initially pursuing a career as a physician assistant, I found my true calling in
 
 - 🔭 My most recent completed project [CodeUp](https://github.com/fuentesdominic/CodeUp)
 
-- 🌱 I’m currently learning **Vue.js | Python | Flask **
+- 🌱 I’m currently learning **Vue.js | Python | Flask**
 
 - 👯 I’m currently collaborating on [Swish-Sesh](https://github.com/mannyaalonso/swish-sesh)
 
