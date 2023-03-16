@@ -5,15 +5,15 @@ Initially pursuing a career as a physician assistant, I found my true calling in
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinayang15&label=Profile%20views&color=0e75b6&style=flat" alt="tinayang15" /> </p>
 
-- 🔭 I’m currently working on [CodeUp](https://github.com/fuentesdominic/CodeUp)
+- 🔭 My most recent completed project [CodeUp](https://github.com/fuentesdominic/CodeUp)
 
-- 🌱 I’m currently learning **PostgreSQL | Sequelize | User Auth**
+- 🌱 I’m currently learning **Vue.js | Python | Flask **
 
 - 👯 I’m currently collaborating on [Swish-Sesh](https://github.com/mannyaalonso/swish-sesh)
 
 - 👨‍💻 All of my projects are available at [https://tinayang.vercel.app/](https://tinayang.vercel.app/)
 
-- 💬 Ask me about **React | MongoDB | Express**
+- 💬 Ask me about **React | MongoDB | Express | PostgreSQL | User Auth**
 
 - 📫 How to reach me **tinayangers@gmail.com**
 
