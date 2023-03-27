@@ -5,7 +5,7 @@ Initially pursuing a career as a physician assistant, I found my true calling in
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinayang15&label=Profile%20views&color=0e75b6&style=flat" alt="tinayang15" /> </p>
 
-- ⚡ I'm currently working on project [Manga-Fi](ttps://github.com/tinayang15/Manga-Fi)
+- ⚡ I'm currently working on project [Manga-Fi](https://github.com/tinayang15/Manga-Fi)
 
 - 🔭 My most recent completed project [CodeUp](https://github.com/fuentesdominic/CodeUp)
 
